@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TS Quiz App</string>
+    <string name="_2013">2013</string>
+    <string name="_1989">1989</string>
+    <string name="_2000">2000</string>
+    <string name="_2014">2014</string>
+    <string name="_1_in_which_year_the_album_1989_was_released">1. In which year the album \'1989\' was released?</string>
+    <string name="todo">TODO</string>
+    <string name="submit">SUBMIT</string>
+    <string name="start_quiz">START QUIZ</string>
+
+    <string name="ts_quiz_app">TS QUIZ APP</string>
+    <string name="points">Points :</string>
+    <string name="congratulations">CONGRATULATIONS!!!!</string>
+    <string name="_50_50">50/50</string>
+    <string name="developed_by_giridhar">developed by giridhar</string>
+    <string name="you_scored">YOU SCORED</string>
+    <string name="back_to_home">BACK TO HOME</string>
+
+
+</resources>
